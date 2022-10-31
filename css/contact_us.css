@@ -1,0 +1,14 @@
+html {
+    background-color: rgba(0, 255, 55, 0.867);
+}
+
+.contact-grid {
+    display: inline-block;
+
+}
+.img {
+width: 600px;
+margin-right: 40px;
+margin: 30px;
+}
+    

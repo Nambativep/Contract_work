@@ -1,0 +1,33 @@
+  
+
+h1 {
+    color: rgba(22, 129, 106, 0.856);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+
+}
+.contact-container {
+    display: flex;
+    width: 100%;
+    background-color: rgb(0, 255, 255);
+    padding-bottom: 500%;
+}
+.contact-picture {
+    margin-right: 60px;
+}
+.form-text {
+     border: none;
+    color: rgba(22, 129, 106, 0.856);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 10px;
+}
+button {
+    color: rgba(22, 129, 106, 0.856);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    padding-left: 10px; 
+    width: 100px;
+    height: 40px; 
+    border: none; 
+}
